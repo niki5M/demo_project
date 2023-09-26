@@ -1,0 +1,22 @@
+.success {
+	color: green;
+}
+.error {
+	color: red;
+}
+.large {
+	font-size: 30px;
+}
+.small {
+	font-size: 20px;
+}
+
+.a {
+	font-size: 50px;
+}
+.b {
+	text-decoration: overline;
+}
+.c {
+	color: rgb(89, 0, 255);
+}

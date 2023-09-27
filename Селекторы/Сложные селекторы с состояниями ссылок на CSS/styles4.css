@@ -1,0 +1,7 @@
+.block a.zzz {
+	color: red;
+}
+.block a.zzz:hover {
+	text-decoration: none;
+}
+/* Селектор в приведенном коде выбирает все <a> элементы с классом "zzz", которые находятся внутри элемента с классом "block". */

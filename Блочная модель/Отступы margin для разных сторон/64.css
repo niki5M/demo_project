@@ -1,0 +1,21 @@
+#parent {
+	padding: 50px;
+	width: 200px;
+	border: 1px solid red;
+	text-align: justify;
+}
+
+#parent2 {
+	padding: 20px;
+	width: 500px;
+	border: 1px solid green;
+	text-align: justify;
+}
+
+#parent3 {
+	margin: 30px 40px;
+	padding: 10px;
+	width: 300px;
+	border: 1px solid red;
+	text-align: justify;
+}

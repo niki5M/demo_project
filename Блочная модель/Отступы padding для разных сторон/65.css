@@ -1,0 +1,11 @@
+#parent {
+	padding-top:    50px; /* сверху */
+	padding-right:  30px; /* справа */
+	padding-bottom: 95px; /* снизу */
+	padding-left:   30px; /* слева */
+	
+	width: 200px;
+	border: 1px solid red;
+	text-align: justify;
+}
+

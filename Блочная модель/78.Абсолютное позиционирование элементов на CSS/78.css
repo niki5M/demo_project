@@ -1,0 +1,80 @@
+/* №1 */
+#elem1, #elem2, #elem3 {
+	width: 50px;
+	height: 50px;
+	position: absolute;
+}
+#elem1 {
+	border: 1px solid red;
+	left: 30px;
+	top: 30px;
+}
+#elem2 {
+	border: 1px solid blue;
+	left: 100px;
+	top: 100px;
+}
+#elem3 {
+	border: 1px solid green;
+	left: 170px;
+	top: 170px;
+}
+/* №2 */
+#elem12, #elem22, #elem32 {
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	top: 300px;
+}
+#elem12 {
+	border: 1px solid red;
+	left: 30px;
+}
+#elem22 {
+	border: 1px solid blue;
+	left: 100px;
+}
+#elem32 {
+	border: 1px solid green;
+	left: 170px;
+}
+#elem13, #elem23, #elem33 {
+	width: 50px;
+	height: 50px;
+	position: absolute;
+}
+#elem13 {
+	border: 1px solid red;
+	left: 30px;
+	top: 430px;
+}
+#elem23 {
+	border: 1px solid blue;
+	left: 60px;
+	top: 460px;
+}
+#elem33 {
+	border: 1px solid green;
+	left: 90px;
+	top: 490px;
+}
+#elem14, #elem24, #elem34 {
+	width: 50px;
+	height: 50px;
+	position: absolute;
+}
+#elem14 {
+	background-color: #FF8888;
+	left: 30px;
+	top: 630px;
+}
+#elem24 {
+	background-color: #7E89EB;
+	left: 60px;
+	top: 660px;
+}
+#elem34 {
+	background-color: #4DEE99;
+	left: 90px;
+	top: 690px;
+}

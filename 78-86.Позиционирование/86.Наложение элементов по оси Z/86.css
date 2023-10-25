@@ -1,0 +1,115 @@
+#elem1 {
+	position: absolute;
+	top: 30px;
+	left: 30px;
+	
+	width: 50px;
+	height: 50px;
+	background: #ff8888;
+	z-index: 1;
+}
+
+#elem2 {
+	position: absolute;
+	top: 60px;
+	left: 60px;
+	
+	width: 50px;
+	height: 50px;
+	background: #7e89eb;
+	z-index: 3;
+}
+#elem3 {
+	position: absolute;
+	top: 90px;
+	left: 90px;
+	
+	width: 50px;
+	height: 50px;
+	background: #17e072;
+	z-index: 2;
+}
+#elem12 {
+	position: absolute;
+	top: 330px;
+	left: 30px;
+	
+	width: 50px;
+	height: 50px;
+	background: #ff8888;
+	z-index: 3;
+}
+
+#elem22 {
+	position: absolute;
+	top: 360px;
+	left: 60px;
+	
+	width: 50px;
+	height: 50px;
+	background: #7e89eb;
+	z-index: 2;
+}
+#elem32 {
+	position: absolute;
+	top: 390px;
+	left: 90px;
+	
+	width: 50px;
+	height: 50px;
+	background: #17e072;
+	z-index: 1;
+}
+
+#elem13 {
+	position: absolute;
+	top: 630px;
+	left: 30px;
+	
+	width: 50px;
+	height: 50px;
+	background: #ff8888;
+	
+}
+
+#elem23 {
+	position: absolute;
+	top: 660px;
+	left: 60px;
+	
+	width: 50px;
+	height: 50px;
+	background: #7e89eb;
+	z-index: -2;
+}
+#elem33 {
+	position: absolute;
+	top: 690px;
+	left: 90px;
+	
+	width: 50px;
+	height: 50px;
+	background: #17e072;
+
+}
+#elem133, #elem233, #elem333 {
+	width: 50px;
+	height: 50px;
+	position: absolute;
+}
+#elem133 {
+	background-color: #ff8888;
+	left: 30px;
+	top: 630px;
+}
+#elem233 {
+	z-index: -1;
+	background-color: #7e89eb;
+	left: 60px;
+	top: 660px;
+}
+#elem333 {
+	background-color: #4dee99;
+	left: 90px;
+	top: 690px;
+}

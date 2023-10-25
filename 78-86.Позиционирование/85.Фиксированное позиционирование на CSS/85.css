@@ -1,4 +1,4 @@
-fixed {
+	#fixed {
 	position: fixed;
 	text-align: center;
 	padding-top:10px;
@@ -11,12 +11,12 @@ fixed {
 	font-size: 22px;
 	color: white;
 	background-color: rgb(140, 50, 205);
-	border-bottom: 1px solid rgb(140, 50, 205);
+	border-bottom: 1px solid rgb(22, 57, 209);
   }
   
   #text {
 	width: 600px;
 	margin: 60px auto;
 	padding: 20px;
-	border: 1px solid palevioletred;
+	font-size: larger;
   }
